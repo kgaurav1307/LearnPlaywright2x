@@ -9,3 +9,5 @@
  * let result = calculateTotalPrice();
  * console.log(result);
  */ 
+
+// vvvvv
